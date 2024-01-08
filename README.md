@@ -8,18 +8,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Dark Skin Tone" width="40" height="40" />, I'm Amr <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40" height="40" /></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono+SemiBold&duration=3500&pause=800&color=0090FF&center=true&width=435&lines=A+Full-Stack+Developer+From+Lebanon;A+Robotics+Instructor;A+Computer+Science+Graduate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono+SemiBold&duration=3500&pause=800&color=0090FF&center=true&width=435&lines=A+Full-Stack+Developer;A+Robotics+Instructor;A+Computer+Science+Graduate" alt="Typing SVG" />
 </p>
 
 
-- I’m currently exploring **MERN stack** 
+- I’m currently using **MERN stack** 
   <img height=30 align="center" src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" />
   <img height=30 align="center" src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" />
   <img height=30 align="center" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
   <img height=30 align="center" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
 
 - All of my projects are available on my [Github](https://github.com/amr-hammoud?tab=repositories)
-- I love creating visually appealing and user-friendly interfaces
+- I am commited to creating visually appealing and user-friendly interfaces
 
 
 ##
