@@ -11,30 +11,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono+SemiBold&duration=3500&pause=800&color=0090FF&center=true&width=435&lines=A+Full-Stack+Developer+From+Lebanon;A+Robotics+Instructor;A+Computer+Science+Graduate" alt="Typing SVG" />
 </p>
 
-
-- I’m currently exploring **MERN stack** 
-  <img height=30 align="center" src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" />
-  <img height=30 align="center" src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" />
-  <img height=30 align="center" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
-  <img height=30 align="center" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
-
-- All of my projects are available on my [Github](https://github.com/amr-hammoud?tab=repositories)
-- I love creating visually appealing and user-friendly interfaces
-
-
 ##
 <h3 align="left"> 🔗 Connect with me:</h3>
   <a href="https://www.linkedin.com/in/amr-hammoud/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/amr.hammoud" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
   <a href="https://medium.com/@amr-hammoud" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/amr_hammoud" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 
 ##
@@ -83,12 +66,3 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
-
-##
-<div align="center">
-   <img src="https://streak-stats.demolab.com?user=amr-hammoud&locale=en&mode=daily&theme=react&hide_border=false&border_radius=10&order=3" height="260" alt="streak graph"  />
-  </div>
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amr-hammoud&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amr-hammoud&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
