@@ -1,0 +1,4 @@
+# local only: regenerating the ASCII art
+-r requirements.txt
+pillow
+numpy
